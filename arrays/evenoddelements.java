@@ -9,7 +9,7 @@ class evenoddelements {
         for (int i = 0; i < num.length; i++) {
 
             if (num[i] % 2 == 0) {
-                even = even + num[i] + " "; //" is used to concatenate the even numbers in the string"
+                even = even + num[i] + " "; 
             } else {
                 odd = odd + num[i] + " ";
             }
@@ -19,3 +19,7 @@ class evenoddelements {
         System.out.println("Odd numbers are:"+odd);
     }
 }
+
+/*output: 
+Even numbers are:28 20 42 
+Odd numbers are:9 63 33 */
