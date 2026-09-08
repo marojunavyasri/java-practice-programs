@@ -21,3 +21,7 @@ class Elementoccurrence {
         }
     }
 }
+
+/*output 
+2 occurs 3 times 
+4 occurs 2 times */
