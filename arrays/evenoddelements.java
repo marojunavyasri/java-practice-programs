@@ -1,7 +1,7 @@
 class evenoddelements {
     public static void main(String[] args) {
 
-        int num[] = {2, 28, 20, 63, 30,42};
+        int num[] = {9,28,20,63,33,42};
 
         String even = "";
         String odd = "";
